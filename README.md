@@ -22,6 +22,6 @@
 | *HTML*        | *Python*        | *VisualStudioCode* |
 
 ### Follow me
-[VK](https://vk.com/sandwor)
-[Telegram](https://t.me/sandwor)
-[Instagram](https://www.instagram.com/sandwor)
+[VK](https://vk.com/sandwor)  
+[Telegram](https://t.me/sandwor)  
+[Instagram](https://www.instagram.com/sandwor)  
