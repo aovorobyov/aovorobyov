@@ -10,7 +10,7 @@
 - Active participation in the life of the school in parallel with the completion of projects
 - My goal of participating in this project is experience in team projects and diversified development in IT
 
-### I'm Beginner Full-stack developer
+### I'm Beginner Frontend developer
 - Independent study of HTML/CSS/JS and development of pet projects
 - Attending lectures on technologies used to develop web applications
 - I am attracted by the opportunity to harmoniously combine the creative implementation of ideas through the frontend with the logical sophistication of algorithms in the backend
