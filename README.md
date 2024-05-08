@@ -19,7 +19,7 @@
 | <!-- -->      | <!-- -->        | <!-- -->    | <!-- -->           |
 |:-------------:|:---------------:|:-----------:|:------------------:|
 | *JavaScript*  | *CSS*           | *Node.js*   | *C/C++*            |
-| *HTML*        | *TailwindCSS*   | *Python*    | *VisualStudioCode* |
+| *HTML*        | *React*         | *Python*    | *VisualStudioCode* |
 
 ### Follow me
 [VK](https://vk.com/sandwor)
