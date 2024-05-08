@@ -11,7 +11,7 @@
 - My goal of participating in this project is experience in team projects and diversified development in IT
 
 ### I'm Beginner Frontend developer
-- Independent study of HTML/CSS/JS and development of pet projects: [Hangman game](https://aovorobyov.github.io/HANGMAN_GAME/)
+- Independent study of HTML/CSS/JS and development of pet projects: [Hangman game](https://aovorobyov.github.io/HANGMAN_GAME/),  [Cream Soda cafe](https://aovorobyov.github.io/cream_soda/)
 - Attending lectures on technologies used to develop web applications
 - I am attracted by the opportunity to harmoniously combine the creative implementation of ideas with the logical sophistication of algorithms
 
