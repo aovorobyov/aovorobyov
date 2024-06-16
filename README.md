@@ -3,7 +3,7 @@
 ### I'm RUDN student 
 - Bachelor’s degree in fundamental informatics and IT
 - Graduate work involved developing a web application for extracting named entities from Internet texts using flask and pre-trained deep learning models
-- Getting a master's degree in applied mathematics and computer scienc
+- Getting a master's degree in applied mathematics and computer science
 
 ### I'm SCHOOL21 student
 - Fall of 2023: successfully passed the qualifying intensive course and enrolled in training
