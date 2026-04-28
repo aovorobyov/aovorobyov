@@ -12,7 +12,7 @@
 ### Languages and Technologies
 | **Core**                     | **Frameworks** | **CMS/other** | **Practices**                            | **Tools**                    | **AI-assisted**                  |
 |:----------------------------:|:--------------:|:-------------:|:----------------------------------------:|:----------------------------:|:--------------------------------:|
-| *HTML5*                      | *React*        | *WordPress*   | *Adaptive / semantic / cross-browser*    | *Git*                        | *Claude*                         |
+| *HTML5*                      | *React*        | *WordPress*   | *Responsive / semantic / cross-browser latout*    | *Git*                        | *Claude*                         |
 | *CSS3 (SASS, TailwindCSS)*   | *Next.js*      | *Twig*        | *Pixel Perfect*                          | *Webpack*                    | *GitHub Copilot*                 |
 | *JavaScript ES6+*            |                |               |                                          | *Docker / Docker Compose*    | *Cursor*                         |
 | *TypeScript*                 |                |               |                                          | *Figma*                      |                                  |
