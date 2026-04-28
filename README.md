@@ -10,12 +10,12 @@
 - Writing code for development and for the soul
 
 ### Languages and Technologies
-| <!-- -->      | <!-- -->        | <!-- -->    | <!-- -->      |
-|:-------------:|:---------------:|:-----------:|:-------------:|
-| *JavaScript*  | *TailwindCSS*   | *Docker*    | *React*       |
-| *TypeScript*  | *SASS*          | *Webpack*   | *Next.js*     |
-| *HTML*        | *CSS*           | *GIT*       | *Node.js*     |
-| *Twig*        | *Figma*         | *Linux*     | *REST API*    |
+| **Core**                     | **Frameworks** | **CMS/other** | **Practices**                            | **Tools**                    | **AI-assisted**                  |
+|:----------------------------:|:--------------:|:-------------:|:----------------------------------------:|:----------------------------:|:--------------------------------:|
+| *HTML5*                      | *React*        | *WordPress*   | *Adaptive / semantic / cross-browser*    | *Git*                        | *Claude*                         |
+| *CSS3 (SASS, TailwindCSS)*   | *Next.js*      | *Twig*        | *Pixel Perfect*                          | *Webpack*                    | *GitHub Copilot*                 |
+| *JavaScript ES6+*            |                |               |                                          | *Docker / Docker Compose*    | *Cursor*                         |
+| *TypeScript*                 |                |               |                                          | *Figma*                      |                                  |
 
 ### Follow me
 [VK](https://vk.com/sandwor)
